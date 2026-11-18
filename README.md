@@ -48,20 +48,6 @@ interests:
 
 ---
 
-## Featured project
-
-### 🧾 InvoiceIQ
-
-**AI-powered invoice processing and management platform**
-
-InvoiceIQ combines OCR, structured extraction, validation, reconciliation, supplier management, and reporting workflows.
-
-**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · Docker
-
-[View InvoiceIQ Repository](https://github.com/YOUR_USERNAME/InvoiceIQ)
-
----
-
 ## Tech Stack
 
 <div align="center">
