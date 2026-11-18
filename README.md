@@ -4,10 +4,9 @@
        alt="Aneesh Kumar — Software Developer">
 </div>
 
-# ANEESH KUMAR
-### Software Developer · AI/ML Enthusiast · Product Builder
 
-**Building practical software. Exploring intelligent systems. Turning ideas into products.**
+
+   **Building practical software. Exploring intelligent systems. Turning ideas into products.**
 
 <a href="https://github.com/Aneesh-kumar-89">
   <img src="https://img.shields.io/badge/GitHub-Aneesh--kumar--89-181717?style=for-the-badge&logo=github" alt="GitHub profile">
