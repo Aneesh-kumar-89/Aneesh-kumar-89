@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="assets/profile-banner.png"
+       width="100%"
+       alt="Aneesh Kumar — Software Developer">
+</div>
 
 # ANEESH KUMAR
 ### Software Developer · AI/ML Enthusiast · Product Builder
@@ -131,4 +135,9 @@ Planned and developed capabilities include:
 
 **Build with purpose. Improve with every iteration.**
 
+</div>
+
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:06B6D4&height=110&section=footer" width="100%" alt="Profile footer wave">
 </div>
